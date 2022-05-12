@@ -11,4 +11,4 @@ Run programs by typing **py** and then the application name, ie:
 
 **py nvb.py**
 
-**py lr.py**
+**py reg.py**
