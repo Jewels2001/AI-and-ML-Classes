@@ -9,6 +9,7 @@ Compile (using **make a2**) and run the project.
 
 Enter values using a 0-indexed numbering system:
 ie,
+__ __ __ __
 00 | 01 | 02
 __ __ __ __
 10 | 11 | 12
